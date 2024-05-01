@@ -1,4 +1,4 @@
-# 👩🏾‍⚖️ Data Law Companion
+# 👩🏾‍⚖️ [Data Law Companion](https://datalawcompanion.org/)
 
 This is a Progressive Web Application that utilizes a Large Language Models (LLM) to create a comprehensive and  interactive resource for Data Protection Laws for Kenya, Rwanda and Uganda.
 
